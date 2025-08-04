@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 2rem;
+    background-color: #f7f7f7;
+  }
+  
+  h1 {
+    margin-bottom: 1rem;
+  }
+  
+  .buttons {
+    margin-bottom: 2rem;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+  .counter__value {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 10px;
+    color: red;
+  }
+  
