@@ -22,7 +22,8 @@ Users can increment, decrement, or reset the value, and the counter color change
 
 ## 📸 Screenshot
 
-![counter-app](./assets/screenshot.png)
+![counter-app](./assets/screenshot.jpg)
+
 
 ## 📦 How to Use
 
